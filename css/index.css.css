@@ -1,0 +1,163 @@
+
+
+
+.b{
+	border: 1px solid seagreen;
+	height: 920px;
+	margin-left: 20%;
+	margin-top: 3%;
+	margin-right: 20%;
+	background-color: #E7F4F4;
+	border-radius: 5px;
+}
+.b1{
+	border: 1px ;
+	height: 150px;
+	margin-left: 450px;
+	background: url("../img/or1.png");
+	background-color: #E7F4F4 ;
+	background-size:100% 100% ;
+	background-repeat: no-repeat;
+}
+.b2{
+	border: 1px ;
+	height: 500px;
+
+}
+.bf{
+	border: 1px solid blueviolet;
+	height: 270px;
+         
+	background-color: black;
+}
+.bf1{
+	border:1px solid   ;
+	height: 200px;
+	width:200px;
+	float: left;
+	margin-left: 10.5%;
+	margin-top: 10px;
+	color: white;
+	line-height: 10px;
+
+	}
+		.bf2{
+
+	border:1px solid   ;
+	height: 140px;
+	width:200px;
+	margin-left: 65%;
+	margin-top: 10px;}
+.bfla{
+	border: 1px solid ;
+	width: 300px;
+	height: 100px;
+	margin-left: 450px;
+	margin-top: 15px;
+	background-color: black;
+}
+.x1,.x2,.x3{
+	border:1px solid ;
+	     width: 50px;
+	     height: 50px;
+	     margin-left: 30px;
+	     float: left;
+	     margin-top: 15px;
+}.x1{
+	background: url("../img/twi.jpg");
+	background-size: 100% 100%;
+
+}
+.x2{
+background: url("../img/Flog.png");
+background-size: 100% 100%;
+}
+.x3{
+background: url("../img/inst.jpg");
+background-size: 100% 100%;
+}
+	
+.allin{
+	border
+	height: 500px;
+	margin-left: 25%;
+	margin-right: 25%;
+	float: left;
+	width: 50%;
+	box-shadow: 4px 4px 4px 4px grey;
+	border-radius: 10px;
+
+
+}
+#t1,#t2,#t3,#t4,#tad,#ifex{
+
+float: right;
+}
+#t9,#t10{
+	margin-left: 50px;
+}
+P{
+	font-size: 20PX;
+
+}
+@media only screen and (max-width: 500px)
+{
+.allin{
+	border
+	height: 500px;
+	margin-left: 4%;
+	margin-right: 10%;
+	float: left;
+	width: 260px;
+	box-shadow: 4px 4px 4px 4px grey;
+	border-radius: 10px;
+}.x1,.x2,.x3{
+	border:1px solid ;
+	     width: 50px;
+	     height: 50px;
+	     margin-left: 14px;
+	     float: left;
+	     margin-top: 15px;}
+	     
+	/*     .bfla{
+	border: 1px solid ;
+	width: 300px;
+	height: 100px;
+	margin-left: 450px;
+	margin-top: 15px;
+	background-color: black;}*/
+
+.bfla{
+	border: 1px solid ;
+	width: 244px;
+	height: 100px;
+	margin-left: -1px;
+	margin-top: 15px;
+	background-color: black;}
+	
+.b{
+	border: 1px solid seagreen;
+	height: 950px;
+    
+	width: 98%;
+	margin-left: 1%;
+	margin-top: 2%;
+	background-color: #E7F4F4;
+	border-radius: 5px;
+}.bf{
+	border: 1px solid blueviolet;
+	height: 300px;
+         display: flex;
+         width: 83%;
+       flex-direction: column;
+	background-color: black;}
+	.b1{
+	border: 1px ;
+	height: 150px;
+	margin-left: 10%;
+	margin-right: 13%;
+	background: url("../img/or1.png");
+	background-color: #E7F4F4 ;
+	background-size:100% 100% ;
+	background-repeat: no-repeat;
+}
